@@ -4,3 +4,4 @@
 
 1. [Variable](https://github.com/rajratan41/js-Assignments/blob/main/01/variable.js)
 2. [Interpolation](https://github.com/rajratan41/js-Assignments/blob/main/02/interpolation.js)
+3. [UpperCase](https://github.com/rajratan41/js-Assignments/blob/main/03/upperCase.js)
