@@ -47,8 +47,11 @@ console.log(
  * Results
  *
  * The Value of str is :I'm String and the type of str is : string
+ *
  * The Value of boolen is :true and the type of str is : boolean
+ *
  * The Value of undefined is :undefined and the type of str is : undefined
+ *
  * The Value of null is :null and the type of str is : object
  *
  *
