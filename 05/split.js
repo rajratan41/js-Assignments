@@ -20,5 +20,19 @@ console.log(sep);
 let sepe = "Hello how are you"
 let sepLimit = sepe.split(" ", 2)
 console.log("string sepreted with limit inside Array -");
-
 console.log(sepLimit);
+
+
+// Outputs are-
+
+// This is String -
+// I'm String
+
+// This is String inside Array -
+// [ "I'm String" ]
+
+// string sepreted inside Array -
+// [ "I'm", 'String' ]
+
+// string sepreted with limit inside Array -
+// [ 'Hello', 'how' ]
